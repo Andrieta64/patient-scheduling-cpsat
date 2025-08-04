@@ -5,11 +5,11 @@ Dissertation project on Hospital Room Assignment using **Google OR-Tools CP-SAT 
 
 ## Project Overview
 This project aims for the development of a constraint-based model to optimise allocation of hospital rooms to patients with the use of:
-**Rolling horizon approach**: Solving the allocation problem day-by-day
-**Hard constraints**: Room Capacity, Conditional Equipment Constraint, Room Assignment
-**Soft constraints**: Preferred Room Capacity, Gender Mismatch, Missing Preferred Equipment, Missing Required Equipment, Patient Movement, Age Policy, Specialism Compatibility
-**Fairness**: reducing disparities: Historical Bias Penalty, First-Come-First-Served Priority
-**Uncertainty mechanism**: Delayed Admission, Early Arrival, Late Discharge, Early Release
+-**Rolling horizon approach**: Solving the allocation problem day-by-day
+-**Hard constraints**: Room Capacity, Conditional Equipment Constraint, Room Assignment
+-**Soft constraints**: Preferred Room Capacity, Gender Mismatch, Missing Preferred Equipment, Missing Required Equipment, Patient Movement, Age Policy, Specialism Compatibility
+-**Fairness**: reducing disparities: Historical Bias Penalty, First-Come-First-Served Priority
+-**Uncertainty mechanism**: Delayed Admission, Early Arrival, Late Discharge, Early Release
 
 ---
 
