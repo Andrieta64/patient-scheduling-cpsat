@@ -1,0 +1,18 @@
+Metric,Value
+Total Solving Time (s),85.89
+Success Rate (%),100.00
+Fairness - StdDev of Daily Penalty,1.71
+Fairness - Gini Coefficient,0.55
+Fairness - Jain Index,0.48
+Total Penalty - Mean,1.64
+Total Penalty - StdDev,1.71
+Total Penalty - Min,0.00
+Total Penalty - Max,8.00
+Avg Daily Penalty - Mean,1.64
+Avg Daily Penalty - StdDev,1.71
+Avg Daily Penalty - Min,0.00
+Avg Daily Penalty - Max,8.00
+Patients with Zero Penalty,340
+Patients with High Penalty (>mean+std),53
+Most Penalized Patient (ID 385),"Total: 8.00, Avg: 8.00"
+Least Penalized Patient (ID 0),"Total: 0.00, Avg: 0.00"
