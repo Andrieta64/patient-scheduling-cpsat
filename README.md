@@ -10,7 +10,7 @@ This project aims for the development of a constraint-based model to optimise al
 - **Soft constraints**: Preferred Room Capacity, Gender Mismatch, Missing Preferred Equipment, Missing Required Equipment, Patient Movement, Age Policy, Specialism Compatibility
 - **Fairness**: Reducing disparities: Historical Bias Penalty, First-Come-First-Served Priority
 - **Uncertainty mechanism**:  Delayed Admission, Early Arrival, Late Discharge, Early Release
--**Rolling horizon approach**: Solving the allocation problem day-by-day
+- **Rolling horizon approach**: Solving the allocation problem day-by-day
 ---
 
 ## Repository Structure
