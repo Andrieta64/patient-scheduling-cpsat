@@ -23,7 +23,7 @@ pip install ortools,
 pip install pandas numpy, 
 pip install matplotlib, 
 pip install scipy scikit-learn, 
-pip install fpdf2, 
+pip install fpdf2 
 
 ### To Run
 Ensure all data and code files are in the same directory for for smooth execution. Some code files have already their directories (Repository Feasibility, Reporitory Tuning) as they use specific datasets (dataset 9).
