@@ -13,6 +13,21 @@ This project aims for the development of a constraint-based model to optimise al
 - **Rolling horizon approach**: Solving the allocation problem day-by-day
 ---
 
+## Installation & Requirements
+### Prerequisites
+Python 3.7 or higher
+Jupyter Notebook or Google Collab (for weight tuning experiments)
+
+### Required Python Packages
+pip install ortools
+pip install pandas numpy
+pip install matplotlib
+pip install scipy scikit-learn
+pip install fpdf2
+
+### To Run
+Ensure all data and code files are in the same directory for for smooth execution. Some code files have already their directories (Repository Feasibility, Reporitory Tuning) as they use specific datasets (dataset 9).
+
 ## Repository Structure
 
 ```plaintext
@@ -37,6 +52,8 @@ This project aims for the development of a constraint-based model to optimise al
 │   ├── Plots for Feasible.ipynb  # Visualization scripts
 │   ├── Tuning-Experiments.ipynb  # Weight tuning experimenting procedure
 │   ├── Tuning-Results.ipynb      # Regression model and Run the optimisation model with optimised weights
+│   ├── Repository Feasibility    # Folder containing the code and datasets for feasibility plots generation
+│   ├── Repository Tuning         # Folder containing the code and datasets for weight tuning experiments
 │
 ├── Tuning/                       # Weight tuning experiments & results
 │   ├── Experiments/              # CSV files of Weight Tuning Experimenting results
